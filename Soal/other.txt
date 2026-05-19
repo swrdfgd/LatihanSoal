@@ -1,0 +1,5 @@
+Selesaikan Masalah Nilai Awal (IVP) dari persamaan diferensial biasa orde dua berikut: $$\frac{d^2y}{dx^2} - 4\frac{dy}{dx} + 4y = 0, \quad y(0) = 1, \, y'(0) = 3$$
+Dalam teori graf, buktikan menggunakan kontradiksi bahwa jika sebuah graf memiliki $n$ titik dan tidak memiliki siklus (cycle), maka graf tersebut maksimal memiliki $n-1$ sisi (edges).
+Gunakan metode induksi matematika yang kuat untuk membuktikan bahwa setiap bilangan bulat $n \ge 2$ dapat dinyatakan sebagai perkalian bilangan-bilangan prima.
+Jika fungsi kepadatan probabilitas (pdf) dari variabel acak kontinu $X$ adalah $f(x) = kx^2$ untuk $0 \le x le 3$, tentukan nilai konstanta $k$ dan hitung ekspektasi $E[X]$.
+Selesaikan sistem kongruensi linier berikut menggunakan Teorema Sisa Tiongkok (Chinese Remainder Theorem): $$x \equiv 2 \pmod 3, \quad x \equiv 3 \pmod 5, \quad x \equiv 2 \pmod 7$$

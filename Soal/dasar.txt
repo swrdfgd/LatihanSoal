@@ -1,0 +1,5 @@
+Hitunglah nilai dari integral tentu yang menggunakan teknik integral parsial berikut: $$\int_{0}^{\pi} x^2 \cos(x) \, dx$$
+Tentukan turunan pertama dari fungsi implisit berikut terhadap variabel $x$: $$x^3 + y^3 - 3axy = 0$$
+Hitung nilai limit fungsi multivariabel berikut atau tunjukkan bahwa limitnya tidak ada: $$\lim_{(x,y) \to (0,0)} \frac{x^2y}{x^4 + y^2}$$
+Tentukan volume benda putar yang terbentuk jika daerah yang dibatasi oleh kurva $y = x^2$ dan garis $y = 4x$ diputar mengelilingi sumbu-$x$ sejauh $360^\circ$.
+Ujilah kekonvergenan dari integral tak wajar (improper integral) berikut ini: $$\int_{1}^{\infty} \frac{\ln(x)}{x^2} \, dx$$

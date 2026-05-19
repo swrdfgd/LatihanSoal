@@ -1,0 +1,5 @@
+Berapa banyak cara menyusun huruf-huruf dari kata **CHÊNE** jika kedua huruf 'E' tidak boleh saling berdampingan?
+Tentukan koefisien dari suku $x^5$ pada ekspansi fungsi pembangkit (generating function) berikut: $$f(x) = \frac{1}{(1-2x)^4}$$
+Tentukan banyaknya solusi bulat non-negatif $(x_1, x_2, x_3, x_4)$ yang memenuhi persamaan linier: $$x_1 + x_2 + x_3 + x_4 = 15 \quad \text{dengan } x_i \ge 0$$
+Gunakan Prinsip Inklusi-Eksklusi untuk menghitung banyaknya bilangan bulat dari 1 sampai 500 yang tidak habis dibagi oleh 3, 5, maupun 7.
+Selesaikan relasi rekurensi homogen linier berikut dengan kondisi awal $a_0 = 1$ dan $a_1 = 4$: $$a_n = 5a_{n-1} - 6a_{n-2}$$

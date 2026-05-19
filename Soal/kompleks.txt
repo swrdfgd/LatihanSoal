@@ -1,0 +1,5 @@
+Hitunglah nilai integral lintasan menggunakan Rumus Integral Cauchy: $\oint_C \frac{e^{2z}}{z^2 + 1} \, dz$ di mana $C$ adalah lingkaran $|z| = 2$ berorientasi positif.
+Tunjukkan apakah fungsi kompleks $f(z) = \bar{z}$ (konjugat dari $z$) memenuhi persamaan Cauchy-Riemann dan bersifat analitik di suatu titik.
+Tentukan deret Laurent dari fungsi $f(z) = \frac{1}{z(z-1)}$ yang berlaku pada wilayah anulus $0 < |z| < 1$.
+Carilah semua akar-akar kompleks (akar pangkat tiga) dari bilangan kompleks berikut: $$z = -8i$$
+Gunakan Teorema Residu untuk mengevaluasi integral riil tak hingga berikut: $$\int_{-\infty}^{\infty} \frac{1}{x^4 + 1} \, dx$$

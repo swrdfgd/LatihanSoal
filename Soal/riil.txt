@@ -1,0 +1,5 @@
+Buktikan secara formal menggunakan definisi limit $\epsilon-\delta$ bahwa: $$\lim_{x \to 2} (3x^2 - 4) = 8$$
+Diberikan barisan bilangan riil yang didefinisikan secara rekursif oleh $x_1 = 1$ dan $x_{n+1} = \sqrt{2 + x_n}$. Buktikan bahwa barisan tersebut konvergen dan cari limitnya.
+Ujilah apakah deret fungsi berikut konvergen secara seragam (uniformly convergent) pada interval $[0,1]$: $$f_n(x) = \frac{nx}{1 + n^2x^2}$$
+Buktikan bahwa jika fungsi $f: [a,b] \to \mathbb{R}$ kontinu pada interval tertutup $[a,b]$, maka $f$ terintegralkan secara Riemann pada interval tersebut.
+Misalkan $E \subset \mathbb{R}$ adalah himpunan tak kosong yang terbatas di atas. Buktikan bahwa supremum dari $E$ (jika ada) bersifat unik.

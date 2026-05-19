@@ -1,0 +1,5 @@
+Diketahui matriks $A = \begin{pmatrix} 2 & 1 \\ 1 & 3 \end{pmatrix}$. Tentukan nilai eigen (eigenvalues) dan vektor eigen (eigenvectors) dari matriks $A$.
+Carilah matriks balikan (invers) dari matriks $B$ berikut menggunakan metode reduksi baris Gauss-Jordan: $$B = \begin{pmatrix} 1 & 0 & 2 \\ 2 & -1 & 3 \\ 4 & 1 & 8 \end{pmatrix}$$
+Apakah himpunan vektor $V = \{(1,2,3), (0,1,2), (-1,0,1)\}$ merupakan himpunan yang saling bebas linier (linearly independent) di dalam ruang vektor $\mathbb{R}^3$?
+Tentukan basis dan dimensi dari ruang nol (null space) yang dibentuk oleh matriks transformasi berikut: $$M = \begin{pmatrix} 1 & -2 & 3 \\ 2 & -4 & 6 \\ 3 & -6 & 9 \end{pmatrix}$$
+Misalkan $T: \mathbb{R}^2 \to \mathbb{R}^2$ adalah transformasi linier yang melakukan refleksi terhadap garis $y = x$. Tentukan matriks standar untuk $T$.

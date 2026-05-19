@@ -1,0 +1,5 @@
+Buktikan bahwa jika $G$ adalah suatu grup dan untuk setiap elemen $a \in G$ berlaku $a^2 = e$ (di mana $e$ adalah elemen identitas), maka $G$ adalah grup abelian.
+Misalkan $H$ and $K$ adalah subgrup dari grup $G$. Buktikan bahwa irisan keduanya, yaitu $H \cap K$, juga merupakan subgrup dari $G$.
+Tentukan semua elemen generator dari grup siklik berorder 12, yaitu $(\mathbb{Z}_{12}, +)$.
+Gunakan Teorema Lagrange untuk membuktikan bahwa order dari setiap subgrup dari grup berhingga $G$ harus membagi habis order dari grup $G$ tersebut.
+Buktikan bahwa setiap Field (lapangan) merupakan sebuah Integral Domain (daerah integral).
